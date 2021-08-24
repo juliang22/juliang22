@@ -13,7 +13,7 @@ const Julian = {
       Website: "http://juliangrunauer.com/",
       LinkedIn: "https://www.linkedin.com/in/juliangrunauer/",
       Email: "juliang222@gmail.com",
-      Hobbies: [rock climbing, yoyoing, tennis, biking, reading]
+      Hobbies: ["🧗🏻‍♂️ rock climbing", "🪀 yoyoing", "🎾 tennis", "🚴🏻 biking", 📚 reading"]
   },
   Software: {
       Languages: [Javascript, Python, Java, C],
