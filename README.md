@@ -35,6 +35,7 @@ const hireMe = (youAreReadingThisRightNow = true) => {
   <a href="mailto:juliang222@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/juliangrunauer/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.facebook.com/julian.grunauer"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+   <a href="http://juliangrunauer.com/"><img src="/img/favicon.jpg" alt="facebook"/></a>
 
 </p>
 <!--
