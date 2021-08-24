@@ -2,7 +2,7 @@
 
 ```javascript
 const Julian = {
-  Pronouns: He | Him | His,
+  Pronouns: "He" | "Him" | "His",
   Education: {
       University: Dartmouth College,
       Majors: [Computer Science, Cognitive Science],
