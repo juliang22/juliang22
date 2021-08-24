@@ -31,7 +31,7 @@ const hireMe = (youAreReadingThisRightNow = true) => {
 }
 ```
 
-<p align="center">
+<p align="center" ju>
   <a href="http://juliangrunauer.com/" "_blank"><img src="/img/favicon.jpg" alt="facebook"/></a>
   <a href="mailto:juliang222@gmail.com" "_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/juliangrunauer/ "_blank""><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
