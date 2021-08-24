@@ -10,10 +10,10 @@ const Julian = {
       Graduating: "November 2021",
   },
   AboutMe: {
-      Hobbies: [rock climbing, yoyoing, tennis, biking, reading],
       Website: "http://juliangrunauer.com/",
       LinkedIn: "https://www.linkedin.com/in/juliangrunauer/",
-      Email: "juliang222@gmail.com"
+      Email: "juliang222@gmail.com",
+      Hobbies: [rock climbing, yoyoing, tennis, biking, reading]
   },
   Software: {
       Languages: [Javascript, Python, Java, C],
@@ -24,13 +24,19 @@ const Julian = {
   CurrentFocus: "Getting my career started!",
 }
 
-const hireMe = (youAreReadingThisRightNow = True) => {
+const hireMe = (youAreReadingThisRightNow = true) => {
   return youAreReadingThisRightNow ?
     "Hire me" :
     "Nah, still hire me tho"
 }
 ```
 
+<p align="center">
+  <a href="mailto:juliang222@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/juliangrunauer/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/julian.grunauer"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+
+</p>
 <!--
 **juliang22/juliang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
