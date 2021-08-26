@@ -17,9 +17,9 @@ const Julian Grunauer = {
   },
   Software: {
       Languages: [Javascript, Python, Java, C],
-      Technologies: [React, React Native, Redux, GraphQL, Apollo],
+      Technologies: [React, React Native, Redux, GraphQL, Apollo, Node.js],
       Databases: [Firebase, MongoDB],
-      Design: [Figma, CSS]
+      Design: [Figma, CSS, Bootstrap, MaterialUI]
   },
   CurrentFocus: "Getting my career started!",
 }
