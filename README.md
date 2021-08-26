@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```javascript
-const Julian = {
+const Julian Grunauer = {
   Pronouns: "He" | "Him" | "His",
   Education: {
       University: Dartmouth College,
