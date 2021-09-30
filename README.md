@@ -7,7 +7,21 @@ const Julian Grunauer = {
       University: Dartmouth College,
       Majors: [Computer Science, Cognitive Science],
       Focus Area: Human Computer Interaction,
-      Graduating: "November 2021",
+      Graduating: "December 2021",
+      RelevantCourseWork: {
+        "CS1: Intro to Programming",
+        "CS10: Software Design & Dev",
+        "CS30: Discrete Mathematics",
+        "CS25: UI/UX Design",
+        "CS50: Software Design & Implementation",
+        "CS52: Full-Stack WebDev",
+        "CS55: Security & Privacy",
+        "CS72: Accelerated Computational Linguistics",
+        "CS76: Artificial Intelligence",
+        "CS89.22: AR/VR Dev",
+        "CS89.11: Cognitive Computing with Watson",
+        "CS98.01/98.02 Senior Culminating Experience",
+      }
   },
   AboutMe: {
       Website: "http://juliangrunauer.com/",
