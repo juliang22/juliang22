@@ -11,7 +11,7 @@ const Julian Grunauer = {
       RelevantCourseWork: {
         "CS1: Intro to Programming",
         "CS10: Software Design & Dev",
-        "CS30: Discrete Mathematics",
+        "CS30: Discrete Mathematics in CS",
         "CS25: UI/UX Design",
         "CS50: Software Design & Implementation",
         "CS52: Full-Stack WebDev",
