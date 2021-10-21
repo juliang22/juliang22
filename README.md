@@ -38,10 +38,10 @@ const Julian Grunauer = {
   CurrentFocus: "Getting my career started!",
 }
 
-const hireMe = (youAreReadingThisRightNow = true) => {
-  return youAreReadingThisRightNow ?
+const hireMe = (youWantADedicatedEmployee= true) => {
+  return youWantADedicatedEmployee ?
     "Hire me" :
-    "Nah, still hire me tho"
+    "I strongly think you should reconsider 😉"
 }
 ```
 
