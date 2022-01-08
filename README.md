@@ -3,10 +3,15 @@
 ```javascript
 const Julian Grunauer = {
   Pronouns: "He" | "Him" | "His",
+  Employment: {
+    Company: "Appian",
+    Role: "Technology Strategy Engineer",
+    StartDate: "June 2022",
+  },
   Education: {
       University: Dartmouth College,
       Majors: [Computer Science, Cognitive Science],
-      Focus Area: Human Computer Interaction,
+      FocusArea: Human Computer Interaction,
       Graduating: "December 2021",
       RelevantCourseWork: {
         "CS1: Intro to Programming",
@@ -27,7 +32,7 @@ const Julian Grunauer = {
       Website: "http://juliangrunauer.com/",
       LinkedIn: "https://www.linkedin.com/in/juliangrunauer/",
       Email: "juliang222@gmail.com",
-      Hobbies: ["🧗🏻‍♂️ rock climbing", "🪀 yoyoing", "🎾 tennis", "🚴🏻 biking", 📚 reading"]
+      Hobbies: ["🧗🏻‍♂️ rock climbing", "🪀 yoyoing", "🎾 tennis", "🚴🏻 biking", "📚 reading"]
   },
   Software: {
       Languages: [Javascript, Python, Java, C],
