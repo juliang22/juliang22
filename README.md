@@ -34,14 +34,7 @@ const Julian Grunauer = {
       Technologies: [React, React Native, Redux, GraphQL, Apollo, Node.js],
       Databases: [Firebase, MongoDB],
       Design: [Figma, CSS, Bootstrap, MaterialUI]
-  },
-  CurrentFocus: "Getting my career started!",
-}
-
-const hireMe = (youWantADedicatedEmployee= true) => {
-  return youWantADedicatedEmployee ?
-    "Hire me" :
-    "I strongly think you should reconsider 😉"
+  }
 }
 ```
 
