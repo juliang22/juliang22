@@ -35,9 +35,9 @@ const Julian Grunauer = {
       Hobbies: ["🧗🏻‍♂️ rock climbing", "🪀 yoyoing", "🎾 tennis", "🚴🏻 biking", "📚 reading"]
   },
   Software: {
-      Languages: [Javascript, Python, Java, C],
-      Technologies: [React, React Native, Redux, GraphQL, Apollo, Node.js],
-      Databases: [Firebase, MongoDB],
+      Languages: [Javascript/Typescript, Python, Java, C],
+      Technologies: [React, React Native, Redux, GraphQL, Apollo, Node.js, Spring Boot],
+      Databases: [Firebase, MongoDB, PostgreSQL],
       Design: [Figma, CSS, Bootstrap, MaterialUI]
   }
 }
